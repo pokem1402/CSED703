@@ -17,5 +17,6 @@
 # datafile
 
 *.tar.gz
-
+*/cifar10
+*/cifar100
 */__pycache__/
