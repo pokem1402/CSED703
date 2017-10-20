@@ -20,4 +20,10 @@
  * [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
  * [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+# Implement Enviroment
+
+ * Ubuntu 16.04
+ * Python 3.5 & Tensorflow with Anaconda 3
+ * Atom
+ 
 # Reference
