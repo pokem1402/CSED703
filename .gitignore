@@ -1,0 +1,21 @@
+# Datafile
+###########
+
+
+# cifar-10
+
+*batches.meta
+*data_batch_*
+*test_batch
+
+# cifar-100
+
+*meta
+*test
+*train
+
+# datafile
+
+*.tar.gz
+
+*/__pycache__/
